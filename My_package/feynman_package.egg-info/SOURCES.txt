@@ -1,0 +1,10 @@
+setup.py
+feynman_package/__init__.py
+feynman_package/diagram.py
+feynman_package/feynman_rules.py
+feynman_package/integral.py
+feynman_package/particle_list.py
+feynman_package.egg-info/PKG-INFO
+feynman_package.egg-info/SOURCES.txt
+feynman_package.egg-info/dependency_links.txt
+feynman_package.egg-info/top_level.txt
